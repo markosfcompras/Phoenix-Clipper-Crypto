@@ -29,7 +29,7 @@
 - [x] Binance - bnb***
 - [x] TON Coin
 # ⚙️ Builder: 
-<img src="https://postimg.cc/GBS7Y00K"> <br>
+[![image.png](https://i.postimg.cc/C1wW3Ym3/image.png)](https://postimg.cc/GBS7Y00K)<br>
 
 
 # Requirements:
